@@ -5,8 +5,8 @@ Original docs: (https://www.developers.moovit.com/embed-moovit-for-web)
 ## Props
 
 | Name       | PropType                            | Description  |
-| ---------- |:-----------------------------------:| ---------------------------------------------------------------------------------:|
-| lang       | PropTypes.string                    | which is language is used to define the user’s interface language. See avai|
+| ---------- | ----------------------------------- | --------------------------------------------------------------------------------- |
+| lang       | PropTypes.string                    | which is language is used to define the user’s interface language.                |
 | metro      | PropTypes.number                    | which is metroID is used to specify initial metro.                                |
 | from       | PropTypes.string                    | value is used as the starting point. If empty, starting point is not filled.      |
 | fromCoords | PropTypes.arrayOf(PropTypes.number) | array of latitude and longitude of "from" location.                               |

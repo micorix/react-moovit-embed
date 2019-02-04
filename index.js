@@ -36,7 +36,7 @@ class MoovitEmbed extends Component{
       }
     }
     return (
-      <div className="mv-wtp" {...attr} ref={this.props.innerRef}></div>
+      <div className="mv-wtp" {...attr} ref={this.props.forwardedRef}></div>
     )
   }
 }
