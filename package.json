@@ -1,6 +1,6 @@
 {
   "name": "react-moovit-embed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React component for Moovit Embedded Web App",
   "main": "index.js",
   "repository": "https://github.com/micorix/react-moovit-embed",
